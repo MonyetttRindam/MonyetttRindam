@@ -13,13 +13,17 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MonyetttRindam&color=green&style=flat" alt="Profile views" />
+</p>
+
 ---
 
 ### 🚀 About Me
 
 - 🎓 Computer Engineering student at **Telkom University**, Bandung
 - 💻 Currently interning in **Backend/API Development**
-- 🧠 Interested in **Machine Learning, MLOps, AI Enginerr and Data Science**
+- 🧠 Interested in **AI Engineering, Machine Learning, MLOps, and Data Science**
 - 🔭 Currently learning end-to-end ML deployment: **FastAPI, Docker, Cloud, Railway**
 - 🌱 I enjoy taking projects from notebook to production, not just stopping at a trained model
 
@@ -60,11 +64,31 @@ Collection of data science and machine learning projects showcasing EDA, modelin
 
 ---
 
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MonyetttRindam&theme=flat&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MonyetttRindam&show_icons=true&theme=default&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MonyetttRindam&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonyetttRindam&layout=compact&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MonyetttRindam/MonyetttRindam/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
