@@ -19,7 +19,7 @@
 
 - 🎓 Computer Engineering student at **Telkom University**, Bandung
 - 💻 Currently interning in **Backend/API Development**
-- 🧠 Interested in **Machine Learning, MLOps, and Data Science**
+- 🧠 Interested in **Machine Learning, MLOps, AI Enginerr and Data Science**
 - 🔭 Currently learning end-to-end ML deployment: **FastAPI, Docker, Cloud, Railway**
 - 🌱 I enjoy taking projects from notebook to production, not just stopping at a trained model
 
